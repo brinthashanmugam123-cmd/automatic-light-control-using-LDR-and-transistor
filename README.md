@@ -24,6 +24,6 @@
 
 **RESULT :**
 
-(ldr circuit.jpeg)
+![](Idr circuit.jpeg)
 
-(ldr simulation.png)
+![](Idr simulation.png)
